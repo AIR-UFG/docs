@@ -43,9 +43,9 @@ The hardware documentation provides information about the physical components an
 
 The software documentation focuses on the algorithms, software frameworks, and control systems utilized in the operation of the StreetDrone Renault Twizy. It includes:
 
-- **Operating System Configuration**: Setup and configuration of the operating system environment, including ROS packages and dependencies required for development.
+- [**Operating System Configuration**](software/operating_system.md): Setup and configuration of the operating system environment, including ROS packages and dependencies required for development.
 
-- **Autonomous Control Software**: Details about the software stack responsible for autonomous driving capabilities, including perception, planning, and control algorithms.
+- [**Autonomous Control Software**](software/vehicle_interface.md): Details about the software stack responsible for autonomous driving capabilities.
 
 - **Simulation Environment**: Information about the simulation environment used for testing and validation of software algorithms before deployment on the physical vehicle.
 
