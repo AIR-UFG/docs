@@ -1,5 +1,9 @@
 # StreetDrone Renault Twizy
 
+<div align="center">
+  <img src="https://github.com/AIR-UFG/docs/assets/22282704/eb66db1c-a427-4ba5-9acf-1d873e0bb48d" width="400"/>
+</div>
+
 Welcome to the documentation for the StreetDrone Renault Twizy, our drive-by-wire car used for research purposes.
 
 ## Overview
