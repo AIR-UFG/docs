@@ -4,7 +4,11 @@ This repository contains software components essential for the operation and dev
 
 ### Operating System Configuration
 
-For instructions on configuring the operating system environment for the StreetDrone Renault Twizy, including Ubuntu installation and Docker setup, please refer to the [Operating System Documentation](software/operating_system.md).
+For instructions on configuring the operating system environment for the StreetDrone Renault Twizy, including Ubuntu installation and Docker setup, please refer to the [Operating System Documentation](operating_system.md).
+
+### Network Configuration
+
+For instructions on configuring the network for the StreetDrone Renault Twizy, please refer to the [Network Documentation](network.md).
 
 ### Vehicle Interface
 
@@ -24,3 +28,4 @@ To run the Vehicle Interface on the StreetDrone Renault Twizy, utilize our docke
 For further instructions and guidance on setting up and utilizing the Vehicle Interface, please refer to the respective repositories.
 
 By following the provided documentation, you can effectively configure the operating system environment and utilize the Vehicle Interface to enable communication between the Twizy and ROS-based self-driving software stacks.
+
