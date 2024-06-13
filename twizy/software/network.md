@@ -1,4 +1,4 @@
-# Self-Driving Car - eno1 fix
+# Network Configuration
 
 ## General information
 ### Udev description
